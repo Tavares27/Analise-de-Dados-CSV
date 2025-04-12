@@ -1,0 +1,9 @@
+Metric,Value
+framework,tensorflow
+parameters.non_trainable,54
+parameters.total,50961
+parameters.trainable,50907
+timestamp,2025-04-04 02:57:51
+total_flops,279.93
+total_flops_raw,279933
+units,KFLOPs
