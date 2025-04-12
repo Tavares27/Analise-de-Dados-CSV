@@ -19,9 +19,9 @@ Você pode instalar as bibliotecas usando os seguintes comandos:
 
 ```bash
 
-pip install numpy as np
+pip install numpy 
 
-pip install pandas as pd
+pip install pandas 
 
-pip install matplotlib.pyplot as plt
+pip install matplotlib.pyplot 
 ```
